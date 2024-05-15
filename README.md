@@ -1,5 +1,5 @@
 # nebula
-Thanks for taking the time to check out my project! This is a design-heavy project where users can learn more about astrology and discover their astrological sign.
+Thanks for taking the time to check out my project! This is a design-heavy project where users can learn more about astrology and discover their astrological signs. Page is fully responsive at different screen sizes.
 
 # link
 Check it out here: https://wustl-cse204a-sp2024-2.github.io/final-project-sammya24/
